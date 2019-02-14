@@ -1,3 +1,5 @@
+Dead repo - this isnt going to go anywhere, I just want to play with some of the code
+
 MoonSharp       [![Build Status](https://travis-ci.org/xanathar/moonsharp.svg?branch=master)](https://travis-ci.org/xanathar/moonsharp) [![Build Status](https://img.shields.io/nuget/v/MoonSharp.svg)](https://www.nuget.org/packages/MoonSharp/)
 =========
 http://www.moonsharp.org   
